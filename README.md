@@ -15,4 +15,4 @@ git clone [repository URL]
 cd litgpt-slurm
 
 # Example command to submit a job to Slurm
-run slurm_st.sh , this will create a script and also sumit it
+run slurm_ft.sh , this will create a fine tuning script and also sumit it
